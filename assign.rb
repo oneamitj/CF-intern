@@ -54,13 +54,6 @@ szs = Student.new("szs", 80)
 
 szs.better_grade_than?(bob)
 
-puts 
-puts 
-puts 
-puts 
-puts 
-
-
 ###################################################################################################################
 
 class Animal
