@@ -65,9 +65,9 @@ class Human < Animal
 	end
 end
 
-sneha = Human.new("Sneha")
-nirdosh = Human.new("Nirdosh")
-amit = Human.new("Amit")
+sneha = Human.new("Suke")
+nirdosh = Human.new("Aalu")
+amit = Human.new("Mote")
 
 puts Animal.printCount
 
